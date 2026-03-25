@@ -1,0 +1,1109 @@
+role_name,required_skill,importance_score
+Android Developer,android,0.57
+Android Developer,android sdk,0.35
+Android Developer,json,0.27
+Android Developer,java,0.22
+Android Developer,xml,0.19
+Android Developer,android development,0.17
+Android Developer,design,0.16
+Android Developer,sqlite,0.14
+Android Developer,android studio,0.13
+Android Developer,development,0.13
+Android Developer,javascript,0.13
+Android Developer,developer,0.11
+Android Developer,mobile,0.11
+Android Developer,rest,0.11
+Android Developer,sdk,0.11
+Android Developer,git,0.1
+Android Developer,sql,0.1
+Android Developer,web technologies,0.1
+Android Developer,application,0.09
+Android Developer,core java,0.09
+Android Developer,html,0.09
+Android Developer,mysql,0.09
+Android Developer,web services,0.09
+Android Developer,applications,0.08
+Android Developer,c++,0.08
+Android Developer,mobile development,0.08
+Android Developer,object oriented programming,0.08
+Android Developer,unit testing,0.08
+Android Developer,android application development,0.07
+Android Developer,computer science,0.06
+Android Developer,mobile application development,0.06
+Android Developer,mobile applications,0.06
+Android Developer,performance tuning,0.06
+Android Developer,programming,0.06
+Android Developer,backend,0.05
+Android Developer,design patterns,0.05
+Android Developer,eclipse,0.05
+Android Developer,technical,0.05
+Android Developer,user interface designing,0.05
+Backend Developer,java,0.32
+Backend Developer,mysql,0.31
+Backend Developer,javascript,0.27
+Backend Developer,node.js,0.25
+Backend Developer,python,0.24
+Backend Developer,backend,0.23
+Backend Developer,mongodb,0.23
+Backend Developer,nosql,0.2
+Backend Developer,algorithms,0.16
+Backend Developer,data structures,0.16
+Backend Developer,html,0.15
+Backend Developer,j2ee,0.15
+Backend Developer,sql,0.15
+Backend Developer,aws,0.12
+Backend Developer,django,0.12
+Backend Developer,front end,0.11
+Backend Developer,jquery,0.11
+Backend Developer,json,0.11
+Backend Developer,php,0.11
+Backend Developer,web technologies,0.11
+Backend Developer,agile,0.09
+Backend Developer,core java,0.09
+Backend Developer,css,0.09
+Backend Developer,design,0.09
+Backend Developer,linux,0.09
+Backend Developer,rdbms,0.09
+Backend Developer,redis,0.09
+Backend Developer,web services,0.09
+Backend Developer,coding,0.08
+Backend Developer,design patterns,0.08
+Backend Developer,development,0.08
+Backend Developer,hibernate,0.08
+Backend Developer,object oriented programming,0.08
+Backend Developer,api,0.07
+Backend Developer,c++,0.07
+Backend Developer,developer,0.07
+Backend Developer,docker,0.07
+Backend Developer,git,0.07
+Backend Developer,postgresql,0.07
+Backend Developer,rest,0.07
+Backend Developer,software engineering,0.07
+Backend Developer,.net,0.05
+Backend Developer,ajax,0.05
+Backend Developer,angularjs,0.05
+Backend Developer,computer science,0.05
+Backend Developer,multithreading,0.05
+Backend Developer,mvc,0.05
+Backend Developer,programming,0.05
+Backend Developer,software,0.05
+Backend Developer,technical,0.05
+Backend Developer,web,0.05
+Backend Developer,web development,0.05
+Blockchain Developer,javascript,0.42
+Blockchain Developer,node.js,0.25
+Blockchain Developer,docker,0.17
+Blockchain Developer,html,0.17
+Blockchain Developer,meteor,0.17
+Blockchain Developer,open source,0.17
+Blockchain Developer,python,0.17
+Blockchain Developer,sql,0.17
+Blockchain Developer,technology solutions,0.17
+Blockchain Developer,.net,0.08
+Blockchain Developer,algorithms,0.08
+Blockchain Developer,application architect,0.08
+Blockchain Developer,application development,0.08
+Blockchain Developer,applications,0.08
+Blockchain Developer,architects,0.08
+Blockchain Developer,artificial intelligence,0.08
+Blockchain Developer,asset management,0.08
+Blockchain Developer,b2b marketing,0.08
+Blockchain Developer,bash,0.08
+Blockchain Developer,business analysts,0.08
+Blockchain Developer,business case,0.08
+Blockchain Developer,business communication,0.08
+Blockchain Developer,business strategy,0.08
+Blockchain Developer,c++,0.08
+Blockchain Developer,campaign management,0.08
+Blockchain Developer,cloud computing,0.08
+Blockchain Developer,compensation,0.08
+Blockchain Developer,computer science,0.08
+Blockchain Developer,cook,0.08
+Blockchain Developer,couchdb,0.08
+Blockchain Developer,creative designing,0.08
+Blockchain Developer,crm,0.08
+Blockchain Developer,cryptography,0.08
+Blockchain Developer,css,0.08
+Blockchain Developer,data analytics,0.08
+Blockchain Developer,data structures,0.08
+Blockchain Developer,design,0.08
+Blockchain Developer,developer,0.08
+Blockchain Developer,development,0.08
+Blockchain Developer,digital marketing,0.08
+Blockchain Developer,django,0.08
+Blockchain Developer,engagement management,0.08
+Blockchain Developer,erp,0.08
+Blockchain Developer,financial services,0.08
+Blockchain Developer,french,0.08
+Blockchain Developer,git,0.08
+Blockchain Developer,github,0.08
+Blockchain Developer,head hunting,0.08
+Blockchain Developer,hiring,0.08
+Blockchain Developer,information technology,0.08
+Blockchain Developer,java,0.08
+Blockchain Developer,marketing,0.08
+Blockchain Developer,mean stack developer,0.08
+Blockchain Developer,mongodb,0.08
+Blockchain Developer,nosql,0.08
+Blockchain Developer,php,0.08
+Blockchain Developer,pmp,0.08
+Blockchain Developer,ppc,0.08
+Blockchain Developer,prototype,0.08
+Blockchain Developer,react.js,0.08
+Blockchain Developer,recruiter,0.08
+Blockchain Developer,recruitment,0.08
+Blockchain Developer,research,0.08
+Blockchain Developer,rest,0.08
+Blockchain Developer,san,0.08
+Blockchain Developer,sem,0.08
+Blockchain Developer,seo,0.08
+Blockchain Developer,shell scripting,0.08
+Blockchain Developer,six sigma,0.08
+Blockchain Developer,software development,0.08
+Blockchain Developer,software solutions,0.08
+Blockchain Developer,solution design,0.08
+Blockchain Developer,solution development,0.08
+Blockchain Developer,technical,0.08
+Blockchain Developer,technical management,0.08
+Blockchain Developer,ui development,0.08
+Blockchain Developer,verbal communication,0.08
+Blockchain Developer,web analytics,0.08
+Business Analyst,business analysis,0.48
+Business Analyst,business analyst,0.45
+Business Analyst,sql,0.17
+Business Analyst,data analysis,0.12
+Business Analyst,project management,0.12
+Business Analyst,analytics,0.1
+Business Analyst,agile,0.07
+Business Analyst,analytical,0.07
+Business Analyst,business process,0.07
+Business Analyst,excel,0.07
+Business Analyst,requirement gathering,0.07
+Business Analyst,sas,0.07
+Business Analyst,consulting,0.06
+Business Analyst,finance,0.06
+Business Analyst,management,0.06
+Business Analyst,sdlc,0.05
+Business Analyst,visio,0.05
+Business Intelligence Analyst,business intelligence,0.55
+Business Intelligence Analyst,sql,0.36
+Business Intelligence Analyst,ssis,0.32
+Business Intelligence Analyst,ssrs,0.32
+Business Intelligence Analyst,data warehousing,0.26
+Business Intelligence Analyst,analytics,0.21
+Business Intelligence Analyst,data modeling,0.19
+Business Intelligence Analyst,etl,0.19
+Business Intelligence Analyst,power bi,0.19
+Business Intelligence Analyst,msbi,0.17
+Business Intelligence Analyst,ssas,0.17
+Business Intelligence Analyst,tableau,0.17
+Business Intelligence Analyst,sql server,0.13
+Business Intelligence Analyst,data analytics,0.09
+Business Intelligence Analyst,analytical,0.08
+Business Intelligence Analyst,data management,0.08
+Business Intelligence Analyst,microstrategy,0.08
+Business Intelligence Analyst,ms sql server,0.08
+Business Intelligence Analyst,oracle,0.08
+Business Intelligence Analyst,sas,0.08
+Business Intelligence Analyst,business objects,0.06
+Business Intelligence Analyst,cloud,0.06
+Business Intelligence Analyst,data analysis,0.06
+Business Intelligence Analyst,developer,0.06
+Business Intelligence Analyst,html,0.06
+Business Intelligence Analyst,linux,0.06
+Business Intelligence Analyst,qlikview,0.06
+Business Intelligence Analyst,statistics,0.06
+Business Intelligence Analyst,stored procedures,0.06
+Cloud Engineer,python,0.44
+Cloud Engineer,linux,0.33
+Cloud Engineer,cloud,0.28
+Cloud Engineer,perl,0.22
+Cloud Engineer,powershell,0.22
+Cloud Engineer,troubleshooting,0.22
+Cloud Engineer,windows,0.22
+Cloud Engineer,automation,0.17
+Cloud Engineer,aws,0.17
+Cloud Engineer,dns,0.17
+Cloud Engineer,unix,0.17
+Cloud Engineer,virtualization,0.17
+Cloud Engineer,vmware,0.17
+Cloud Engineer,change management,0.11
+Cloud Engineer,cloud computing,0.11
+Cloud Engineer,consulting,0.11
+Cloud Engineer,git,0.11
+Cloud Engineer,infrastructure,0.11
+Cloud Engineer,managed services,0.11
+Cloud Engineer,network services,0.11
+Cloud Engineer,operations,0.11
+Cloud Engineer,paas,0.11
+Cloud Engineer,rhce,0.11
+Cloud Engineer,rhel,0.11
+Cloud Engineer,san,0.11
+Cloud Engineer,veritas,0.11
+Cloud Engineer,vpn,0.11
+Cloud Engineer,.net,0.06
+Cloud Engineer,active directory,0.06
+Cloud Engineer,administration,0.06
+Cloud Engineer,agile,0.06
+Cloud Engineer,application support,0.06
+Cloud Engineer,azure,0.06
+Cloud Engineer,bgp,0.06
+Cloud Engineer,bpo,0.06
+Cloud Engineer,business continuity,0.06
+Cloud Engineer,catalyst,0.06
+Cloud Engineer,cgi,0.06
+Cloud Engineer,checkpoint,0.06
+Cloud Engineer,cisco products,0.06
+Cloud Engineer,cisco ucs,0.06
+Cloud Engineer,configuration management,0.06
+Cloud Engineer,customer satisfaction,0.06
+Cloud Engineer,data migration,0.06
+Cloud Engineer,database administration,0.06
+Cloud Engineer,deployment,0.06
+Cloud Engineer,design development,0.06
+Cloud Engineer,devops,0.06
+Cloud Engineer,digital transformation,0.06
+Cloud Engineer,enterprise applications,0.06
+Cloud Engineer,erp,0.06
+Cloud Engineer,ethernet,0.06
+Cloud Engineer,finance,0.06
+Cloud Engineer,firewall,0.06
+Cloud Engineer,firmware,0.06
+Cloud Engineer,focus,0.06
+Cloud Engineer,ftp,0.06
+Cloud Engineer,gcp,0.06
+Cloud Engineer,group policy,0.06
+Cloud Engineer,human resources,0.06
+Cloud Engineer,incident management,0.06
+Cloud Engineer,infrastructure management,0.06
+Cloud Engineer,infrastructure services,0.06
+Cloud Engineer,instructor,0.06
+Cloud Engineer,ip routing,0.06
+Cloud Engineer,itil,0.06
+Cloud Engineer,j2ee,0.06
+Cloud Engineer,java,0.06
+Cloud Engineer,json,0.06
+Cloud Engineer,juniper,0.06
+Cloud Engineer,log shipping,0.06
+Cloud Engineer,management,0.06
+Cloud Engineer,manager technology,0.06
+Cloud Engineer,microsoft azure,0.06
+Cloud Engineer,monitoring,0.06
+Cloud Engineer,multicast,0.06
+Cloud Engineer,network,0.06
+Cloud Engineer,nis,0.06
+Cloud Engineer,operational support,0.06
+Cloud Engineer,operations improvement,0.06
+Cloud Engineer,ospf,0.06
+Cloud Engineer,pci dss,0.06
+Cloud Engineer,performance testing,0.06
+Cloud Engineer,performance tuning,0.06
+Cloud Engineer,pix,0.06
+Cloud Engineer,programming,0.06
+Cloud Engineer,project management,0.06
+Cloud Engineer,qos,0.06
+Cloud Engineer,rca,0.06
+Cloud Engineer,ruby,0.06
+Cloud Engineer,security,0.06
+Cloud Engineer,server architecture,0.06
+Cloud Engineer,shell,0.06
+Cloud Engineer,shell script,0.06
+Cloud Engineer,solaris,0.06
+Cloud Engineer,sql dba,0.06
+Cloud Engineer,sql server,0.06
+Cloud Engineer,srdf,0.06
+Cloud Engineer,technology,0.06
+Cloud Engineer,unix shell scripting,0.06
+Cloud Engineer,vendor manager,0.06
+Cloud Engineer,version control,0.06
+Cloud Engineer,vlan,0.06
+Cloud Engineer,vms,0.06
+Cloud Engineer,vxvm,0.06
+Cloud Engineer,wan,0.06
+Cloud Engineer,windows system admin,0.06
+Cloud Engineer,windows system administration,0.06
+Cloud Engineer,windows system administrator,0.06
+Cloud Engineer,windows troubleshooting,0.06
+Cloud Engineer,xml,0.06
+Computer Vision Engineer,computer science,1.0
+Computer Vision Engineer,computer vision,1.0
+Computer Vision Engineer,image processing,1.0
+Computer Vision Engineer,information technology,1.0
+Computer Vision Engineer,linux,1.0
+Computer Vision Engineer,machine learning,1.0
+Computer Vision Engineer,matlab,1.0
+Computer Vision Engineer,pattern recognition,1.0
+Computer Vision Engineer,signal processing,1.0
+Computer Vision Engineer,windows,1.0
+Cybersecurity Analyst,information security,0.41
+Cybersecurity Analyst,network security,0.35
+Cybersecurity Analyst,networking,0.19
+Cybersecurity Analyst,cyber security,0.15
+Cybersecurity Analyst,risk management,0.13
+Cybersecurity Analyst,iso 27001,0.11
+Cybersecurity Analyst,it security,0.11
+Cybersecurity Analyst,siem,0.11
+Cybersecurity Analyst,application security,0.09
+Cybersecurity Analyst,firewall,0.09
+Cybersecurity Analyst,operations,0.09
+Cybersecurity Analyst,security,0.09
+Cybersecurity Analyst,security analysis,0.09
+Cybersecurity Analyst,vpn,0.09
+Cybersecurity Analyst,auditing,0.07
+Cybersecurity Analyst,ips,0.07
+Cybersecurity Analyst,isms,0.07
+Cybersecurity Analyst,pci dss,0.07
+Cybersecurity Analyst,risk assessment,0.07
+Cybersecurity Analyst,vulnerability,0.07
+Cybersecurity Analyst,vulnerability assessment,0.07
+Cybersecurity Analyst,active directory,0.06
+Cybersecurity Analyst,analytical,0.06
+Cybersecurity Analyst,cisa,0.06
+Cybersecurity Analyst,cissp,0.06
+Cybersecurity Analyst,computer science,0.06
+Cybersecurity Analyst,information security management,0.06
+Cybersecurity Analyst,information technology,0.06
+Cybersecurity Analyst,iso,0.06
+Cybersecurity Analyst,it audit,0.06
+Cybersecurity Analyst,it compliance,0.06
+Cybersecurity Analyst,it operations,0.06
+Cybersecurity Analyst,itil,0.06
+Cybersecurity Analyst,network administration,0.06
+Data Analyst,data analysis,0.53
+Data Analyst,sql,0.34
+Data Analyst,data analyst,0.28
+Data Analyst,python,0.21
+Data Analyst,data analytics,0.19
+Data Analyst,data mining,0.15
+Data Analyst,analytical,0.13
+Data Analyst,analytics,0.11
+Data Analyst,excel,0.11
+Data Analyst,advanced excel,0.09
+Data Analyst,mis reporting,0.09
+Data Analyst,business intelligence,0.08
+Data Analyst,data quality,0.08
+Data Analyst,machine learning,0.08
+Data Analyst,tableau,0.08
+Data Analyst,vba,0.08
+Data Analyst,computer science,0.06
+Data Analyst,crm,0.06
+Data Analyst,data collection,0.06
+Data Analyst,google analytics,0.06
+Data Analyst,hadoop,0.06
+Data Analyst,hive,0.06
+Data Analyst,mis preparation,0.06
+Data Analyst,sas,0.06
+Data Engineer,python,0.59
+Data Engineer,sql,0.37
+Data Engineer,big data,0.35
+Data Engineer,java,0.28
+Data Engineer,spark,0.22
+Data Engineer,machine learning,0.2
+Data Engineer,hadoop,0.17
+Data Engineer,mysql,0.17
+Data Engineer,nosql,0.17
+Data Engineer,scala,0.17
+Data Engineer,agile,0.15
+Data Engineer,analytics,0.13
+Data Engineer,automation,0.13
+Data Engineer,computer science,0.13
+Data Engineer,data modeling,0.13
+Data Engineer,mapreduce,0.13
+Data Engineer,data analysis,0.11
+Data Engineer,data quality,0.11
+Data Engineer,data structures,0.11
+Data Engineer,etl,0.11
+Data Engineer,hbase,0.11
+Data Engineer,hive,0.11
+Data Engineer,linux,0.11
+Data Engineer,aws,0.09
+Data Engineer,business intelligence,0.09
+Data Engineer,coding,0.09
+Data Engineer,data management,0.09
+Data Engineer,metadata,0.09
+Data Engineer,oozie,0.09
+Data Engineer,pig,0.09
+Data Engineer,analytical,0.07
+Data Engineer,architecture,0.07
+Data Engineer,azure,0.07
+Data Engineer,data architecture,0.07
+Data Engineer,data mining,0.07
+Data Engineer,data science,0.07
+Data Engineer,data warehousing,0.07
+Data Engineer,design,0.07
+Data Engineer,informatica,0.07
+Data Engineer,monitoring,0.07
+Data Engineer,performance tuning,0.07
+Data Engineer,scrum,0.07
+Data Scientist,python,0.65
+Data Scientist,machine learning,0.61
+Data Scientist,data science,0.39
+Data Scientist,sql,0.32
+Data Scientist,data mining,0.23
+Data Scientist,big data,0.19
+Data Scientist,deep learning,0.19
+Data Scientist,natural language processing,0.16
+Data Scientist,data visualization,0.14
+Data Scientist,data analysis,0.12
+Data Scientist,sas,0.12
+Data Scientist,analytical,0.1
+Data Scientist,analytics,0.1
+Data Scientist,computer science,0.1
+Data Scientist,spark,0.1
+Data Scientist,artificial intelligence,0.09
+Data Scientist,hadoop,0.09
+Data Scientist,algorithms,0.08
+Data Scientist,business intelligence,0.08
+Data Scientist,predictive modeling,0.08
+Data Scientist,advanced analytics,0.07
+Data Scientist,data management,0.07
+Data Scientist,matlab,0.07
+Data Scientist,scala,0.07
+Data Scientist,statistics,0.07
+Data Scientist,data modeling,0.06
+Data Scientist,html,0.06
+Data Scientist,java,0.06
+Data Scientist,nosql,0.06
+Data Scientist,c++,0.05
+Data Scientist,neural networks,0.05
+Data Scientist,open source,0.05
+Data Scientist,statistical analysis,0.05
+Data Scientist,statistical modeling,0.05
+Data Scientist,text mining,0.05
+Database Administrator,database administration,0.36
+Database Administrator,oracle dba,0.27
+Database Administrator,performance tuning,0.19
+Database Administrator,sql,0.18
+Database Administrator,mysql,0.17
+Database Administrator,dba,0.14
+Database Administrator,rac,0.14
+Database Administrator,linux,0.12
+Database Administrator,oracle,0.12
+Database Administrator,database design,0.11
+Database Administrator,oracle database,0.1
+Database Administrator,database administrator,0.08
+Database Administrator,patching,0.08
+Database Administrator,unix,0.08
+Database Administrator,apps dba,0.07
+Database Administrator,data modeling,0.07
+Database Administrator,html,0.07
+Database Administrator,ms sql,0.07
+Database Administrator,troubleshooting,0.07
+Database Administrator,asm,0.06
+Database Administrator,backup,0.06
+Database Administrator,disaster recovery,0.06
+Database Administrator,golden gate,0.06
+Database Administrator,operations,0.06
+Database Administrator,oracle apps dba,0.06
+Database Administrator,oracle rac,0.06
+Database Administrator,performance monitoring,0.06
+Database Administrator,aws,0.05
+Database Administrator,cloning,0.05
+Database Administrator,computer science,0.05
+Database Administrator,database,0.05
+Database Administrator,dataguard,0.05
+Database Administrator,exadata,0.05
+Database Administrator,mongodb,0.05
+Database Administrator,nosql,0.05
+Database Administrator,oracle apps,0.05
+Database Administrator,plsql,0.05
+Database Administrator,production support,0.05
+Database Administrator,python,0.05
+Database Administrator,replication,0.05
+Database Administrator,rman,0.05
+Database Administrator,sql dba,0.05
+Database Administrator,sql server,0.05
+Database Administrator,ssis,0.05
+Database Administrator,ssrs,0.05
+Database Administrator,technical support,0.05
+Database Administrator,weblogic,0.05
+Database Administrator,windows,0.05
+DevOps Engineer,devops,0.49
+DevOps Engineer,python,0.34
+DevOps Engineer,jenkins,0.32
+DevOps Engineer,linux,0.32
+DevOps Engineer,aws,0.28
+DevOps Engineer,ansible,0.21
+DevOps Engineer,docker,0.21
+DevOps Engineer,git,0.2
+DevOps Engineer,puppet,0.18
+DevOps Engineer,cloud,0.15
+DevOps Engineer,automation,0.12
+DevOps Engineer,configuration management,0.12
+DevOps Engineer,perl,0.12
+DevOps Engineer,ruby,0.12
+DevOps Engineer,shell scripting,0.12
+DevOps Engineer,unix,0.11
+DevOps Engineer,chef,0.1
+DevOps Engineer,mysql,0.1
+DevOps Engineer,maven,0.09
+DevOps Engineer,windows,0.09
+DevOps Engineer,java,0.08
+DevOps Engineer,javascript,0.08
+DevOps Engineer,agile,0.07
+DevOps Engineer,build,0.07
+DevOps Engineer,dns,0.07
+DevOps Engineer,monitoring,0.07
+DevOps Engineer,networking,0.07
+DevOps Engineer,open source,0.07
+DevOps Engineer,sql,0.07
+DevOps Engineer,azure,0.06
+DevOps Engineer,bash,0.06
+DevOps Engineer,continuous integration,0.06
+DevOps Engineer,jira,0.06
+DevOps Engineer,scripting,0.06
+DevOps Engineer,coding,0.05
+DevOps Engineer,computer science,0.05
+DevOps Engineer,debugging,0.05
+DevOps Engineer,github,0.05
+DevOps Engineer,infrastructure,0.05
+DevOps Engineer,openstack,0.05
+DevOps Engineer,svn,0.05
+DevOps Engineer,tools,0.05
+Embedded Systems Engineer,embedded,0.23
+Embedded Systems Engineer,c++,0.22
+Embedded Systems Engineer,spi,0.22
+Embedded Systems Engineer,rtos,0.2
+Embedded Systems Engineer,embedded c,0.19
+Embedded Systems Engineer,embedded software,0.14
+Embedded Systems Engineer,firmware,0.13
+Embedded Systems Engineer,i2c,0.13
+Embedded Systems Engineer,linux,0.13
+Embedded Systems Engineer,development,0.12
+Embedded Systems Engineer,python,0.12
+Embedded Systems Engineer,usb,0.12
+Embedded Systems Engineer,design,0.1
+Embedded Systems Engineer,autosar,0.09
+Embedded Systems Engineer,debugging,0.09
+Embedded Systems Engineer,embedded systems,0.09
+Embedded Systems Engineer,microcontroller,0.09
+Embedded Systems Engineer,programming,0.09
+Embedded Systems Engineer,tools,0.09
+Embedded Systems Engineer,uart,0.09
+Embedded Systems Engineer,automotive,0.07
+Embedded Systems Engineer,embedded development,0.07
+Embedded Systems Engineer,embedded software development,0.07
+Embedded Systems Engineer,ethernet,0.07
+Embedded Systems Engineer,firmware development,0.07
+Embedded Systems Engineer,javascript,0.07
+Embedded Systems Engineer,sql,0.07
+Embedded Systems Engineer,algorithms,0.06
+Embedded Systems Engineer,arm,0.06
+Embedded Systems Engineer,assembly language,0.06
+Embedded Systems Engineer,device drivers,0.06
+Embedded Systems Engineer,emc,0.06
+Embedded Systems Engineer,hardware,0.06
+Embedded Systems Engineer,html,0.06
+Embedded Systems Engineer,oracle,0.06
+Embedded Systems Engineer,sensors,0.06
+Embedded Systems Engineer,soc,0.06
+Embedded Systems Engineer,testing,0.06
+Frontend Developer,javascript,0.71
+Frontend Developer,html,0.46
+Frontend Developer,css,0.4
+Frontend Developer,front end,0.4
+Frontend Developer,jquery,0.38
+Frontend Developer,html5,0.3
+Frontend Developer,angularjs,0.24
+Frontend Developer,css3,0.23
+Frontend Developer,bootstrap,0.18
+Frontend Developer,ui development,0.18
+Frontend Developer,web technologies,0.18
+Frontend Developer,ajax,0.15
+Frontend Developer,react.js,0.14
+Frontend Developer,photoshop,0.09
+Frontend Developer,git,0.08
+Frontend Developer,json,0.08
+Frontend Developer,agile,0.07
+Frontend Developer,coding,0.07
+Frontend Developer,design,0.07
+Frontend Developer,java,0.07
+Frontend Developer,node.js,0.07
+Frontend Developer,web development,0.07
+Frontend Developer,developer,0.06
+Frontend Developer,mysql,0.06
+Frontend Developer,sql,0.06
+Frontend Developer,web services,0.06
+Frontend Developer,backend,0.05
+Frontend Developer,debugging,0.05
+Frontend Developer,development,0.05
+Frontend Developer,mvc,0.05
+Frontend Developer,php,0.05
+Frontend Developer,python,0.05
+Frontend Developer,rest,0.05
+Frontend Developer,ui developer,0.05
+Frontend Developer,web,0.05
+Frontend Developer,xml,0.05
+Full Stack Developer,javascript,0.56
+Full Stack Developer,html,0.3
+Full Stack Developer,java,0.27
+Full Stack Developer,angularjs,0.25
+Full Stack Developer,css,0.22
+Full Stack Developer,jquery,0.17
+Full Stack Developer,node.js,0.17
+Full Stack Developer,python,0.16
+Full Stack Developer,react.js,0.16
+Full Stack Developer,mysql,0.14
+Full Stack Developer,hibernate,0.13
+Full Stack Developer,php,0.12
+Full Stack Developer,spring,0.12
+Full Stack Developer,core java,0.11
+Full Stack Developer,mongodb,0.11
+Full Stack Developer,.net,0.1
+Full Stack Developer,j2ee,0.1
+Full Stack Developer,mvc,0.1
+Full Stack Developer,web development,0.1
+Full Stack Developer,front end,0.09
+Full Stack Developer,html5,0.09
+Full Stack Developer,sql,0.09
+Full Stack Developer,web technologies,0.09
+Full Stack Developer,aws,0.08
+Full Stack Developer,git,0.08
+Full Stack Developer,json,0.08
+Full Stack Developer,object oriented programming,0.08
+Full Stack Developer,rest,0.08
+Full Stack Developer,spring boot,0.08
+Full Stack Developer,web services,0.08
+Full Stack Developer,ajax,0.07
+Full Stack Developer,bootstrap,0.07
+Full Stack Developer,microservices,0.07
+Full Stack Developer,design patterns,0.06
+Full Stack Developer,nosql,0.06
+Full Stack Developer,postgresql,0.06
+Full Stack Developer,software development,0.06
+Full Stack Developer,agile,0.05
+Full Stack Developer,backend,0.05
+Full Stack Developer,computer science,0.05
+Full Stack Developer,css3,0.05
+Full Stack Developer,design,0.05
+Full Stack Developer,development,0.05
+Full Stack Developer,laravel,0.05
+Full Stack Developer,maven,0.05
+Full Stack Developer,software,0.05
+Full Stack Developer,web,0.05
+Machine Learning Engineer,machine learning,0.85
+Machine Learning Engineer,python,0.56
+Machine Learning Engineer,artificial intelligence,0.29
+Machine Learning Engineer,deep learning,0.29
+Machine Learning Engineer,natural language processing,0.29
+Machine Learning Engineer,c++,0.21
+Machine Learning Engineer,computer vision,0.21
+Machine Learning Engineer,data analytics,0.15
+Machine Learning Engineer,java,0.15
+Machine Learning Engineer,algorithms,0.12
+Machine Learning Engineer,data management,0.12
+Machine Learning Engineer,big data,0.09
+Machine Learning Engineer,data visualization,0.09
+Machine Learning Engineer,linux,0.09
+Machine Learning Engineer,matlab,0.09
+Machine Learning Engineer,neural networks,0.09
+Machine Learning Engineer,opencv,0.09
+Machine Learning Engineer,predictive analytics,0.09
+Machine Learning Engineer,sas,0.09
+Machine Learning Engineer,scala,0.09
+Machine Learning Engineer,spark,0.09
+Machine Learning Engineer,sql,0.09
+Machine Learning Engineer,aws,0.06
+Machine Learning Engineer,computer science,0.06
+Machine Learning Engineer,data mining,0.06
+Machine Learning Engineer,data science,0.06
+Machine Learning Engineer,data structures,0.06
+Machine Learning Engineer,git,0.06
+Machine Learning Engineer,hadoop,0.06
+Machine Learning Engineer,image processing,0.06
+Machine Learning Engineer,information technology,0.06
+Machine Learning Engineer,mysql,0.06
+Mobile App Developer,javascript,0.48
+Mobile App Developer,android,0.4
+Mobile App Developer,ios,0.29
+Mobile App Developer,application development,0.2
+Mobile App Developer,mobile application development,0.18
+Mobile App Developer,application,0.17
+Mobile App Developer,html,0.17
+Mobile App Developer,mobile,0.17
+Mobile App Developer,java,0.14
+Mobile App Developer,css,0.12
+Mobile App Developer,development,0.12
+Mobile App Developer,jquery,0.12
+Mobile App Developer,json,0.12
+Mobile App Developer,html5,0.11
+Mobile App Developer,web,0.11
+Mobile App Developer,developer,0.09
+Mobile App Developer,iphone,0.09
+Mobile App Developer,mysql,0.09
+Mobile App Developer,react.js,0.09
+Mobile App Developer,web technologies,0.09
+Mobile App Developer,xcode,0.09
+Mobile App Developer,mobile applications,0.08
+Mobile App Developer,php,0.08
+Mobile App Developer,sql,0.08
+Mobile App Developer,sqlite,0.08
+Mobile App Developer,xml,0.08
+Mobile App Developer,android sdk,0.06
+Mobile App Developer,android studio,0.06
+Mobile App Developer,api,0.06
+Mobile App Developer,computer science,0.06
+Mobile App Developer,css3,0.06
+Mobile App Developer,git,0.06
+Mobile App Developer,mobile application,0.06
+Mobile App Developer,object oriented programming,0.06
+Mobile App Developer,objective c,0.06
+Mobile App Developer,testing,0.06
+Mobile App Developer,.net,0.05
+Mobile App Developer,agile,0.05
+Mobile App Developer,android development,0.05
+Mobile App Developer,architecture,0.05
+Mobile App Developer,bootstrap,0.05
+Mobile App Developer,brew,0.05
+Mobile App Developer,front end,0.05
+Mobile App Developer,gradle,0.05
+Mobile App Developer,ios development,0.05
+Mobile App Developer,jquery mobile,0.05
+Mobile App Developer,linux,0.05
+Mobile App Developer,native,0.05
+Mobile App Developer,photoshop,0.05
+Mobile App Developer,python,0.05
+Mobile App Developer,software,0.05
+Mobile App Developer,swift,0.05
+Mobile App Developer,technical,0.05
+Mobile App Developer,windows mobile,0.05
+NLP Engineer,natural language processing,1.0
+NLP Engineer,machine learning,0.75
+NLP Engineer,python,0.75
+NLP Engineer,algorithms,0.5
+NLP Engineer,c++,0.5
+NLP Engineer,customer service,0.5
+NLP Engineer,customer support,0.5
+NLP Engineer,tools,0.5
+NLP Engineer,analytics,0.25
+NLP Engineer,aws,0.25
+NLP Engineer,chat,0.25
+NLP Engineer,computer science,0.25
+NLP Engineer,data modeling,0.25
+NLP Engineer,data science,0.25
+NLP Engineer,human resource management,0.25
+NLP Engineer,interaction design,0.25
+NLP Engineer,management,0.25
+NLP Engineer,map,0.25
+NLP Engineer,mysql,0.25
+NLP Engineer,neural networks,0.25
+NLP Engineer,open source,0.25
+NLP Engineer,packaging,0.25
+NLP Engineer,san,0.25
+NLP Engineer,scala,0.25
+NLP Engineer,sql,0.25
+NLP Engineer,text mining,0.25
+NLP Engineer,web chat,0.25
+Network Engineer,networking,0.59
+Network Engineer,network engineering,0.29
+Network Engineer,switching,0.25
+Network Engineer,ospf,0.22
+Network Engineer,bgp,0.2
+Network Engineer,lan,0.18
+Network Engineer,wan,0.18
+Network Engineer,ccna,0.16
+Network Engineer,routing,0.16
+Network Engineer,dns,0.14
+Network Engineer,network administrator,0.14
+Network Engineer,eigrp,0.12
+Network Engineer,firewall,0.12
+Network Engineer,troubleshooting,0.12
+Network Engineer,ccnp,0.1
+Network Engineer,network administration,0.1
+Network Engineer,vpn,0.1
+Network Engineer,dhcp,0.08
+Network Engineer,hardware,0.08
+Network Engineer,linux,0.08
+Network Engineer,mpls,0.08
+Network Engineer,windows,0.08
+Network Engineer,cisco,0.06
+Network Engineer,cisco asa,0.06
+Network Engineer,igrp,0.06
+Network Engineer,management,0.06
+Network Engineer,monitoring,0.06
+Network Engineer,operating system,0.06
+Network Engineer,project management,0.06
+Network Engineer,python,0.06
+Network Engineer,qos,0.06
+Network Engineer,routing protocols,0.06
+Network Engineer,sql,0.06
+Network Engineer,stp,0.06
+Network Engineer,vlan,0.06
+QA Engineer,selenium,0.32
+QA Engineer,automation testing,0.26
+QA Engineer,manual testing,0.23
+QA Engineer,testing,0.21
+QA Engineer,test cases,0.2
+QA Engineer,automation,0.15
+QA Engineer,python,0.14
+QA Engineer,sql,0.13
+QA Engineer,agile,0.12
+QA Engineer,test engineering,0.12
+QA Engineer,java,0.11
+QA Engineer,software testing,0.1
+QA Engineer,performance testing,0.09
+QA Engineer,automation framework,0.08
+QA Engineer,computer science,0.08
+QA Engineer,functional testing,0.08
+QA Engineer,regression testing,0.08
+QA Engineer,sdlc,0.08
+QA Engineer,software quality assurance,0.08
+QA Engineer,test planning,0.07
+QA Engineer,javascript,0.06
+QA Engineer,jira,0.06
+QA Engineer,quality assurance,0.06
+QA Engineer,test automation,0.06
+QA Engineer,web technologies,0.06
+QA Engineer,android,0.05
+QA Engineer,appium,0.05
+QA Engineer,html,0.05
+QA Engineer,jenkins,0.05
+QA Engineer,linux,0.05
+QA Engineer,manager quality assurance,0.05
+QA Engineer,quality assurance engineering,0.05
+QA Engineer,test scripts,0.05
+QA Engineer,testing tools,0.05
+QA Engineer,unix,0.05
+QA Engineer,xml,0.05
+Software Engineer,javascript,0.31
+Software Engineer,jquery,0.21
+Software Engineer,html,0.18
+Software Engineer,java,0.18
+Software Engineer,sql,0.18
+Software Engineer,mysql,0.17
+Software Engineer,mvc,0.15
+Software Engineer,php,0.15
+Software Engineer,.net,0.14
+Software Engineer,ajax,0.13
+Software Engineer,asp.net,0.11
+Software Engineer,hibernate,0.11
+Software Engineer,python,0.11
+Software Engineer,core java,0.1
+Software Engineer,css,0.09
+Software Engineer,j2ee,0.09
+Software Engineer,xml,0.09
+Software Engineer,coding,0.08
+Software Engineer,development,0.08
+Software Engineer,linux,0.08
+Software Engineer,object oriented programming,0.08
+Software Engineer,software development,0.08
+Software Engineer,spring,0.08
+Software Engineer,web services,0.08
+Software Engineer,web technologies,0.08
+Software Engineer,agile,0.07
+Software Engineer,computer science,0.07
+Software Engineer,design,0.07
+Software Engineer,software,0.07
+Software Engineer,sql server,0.07
+Software Engineer,web,0.07
+Software Engineer,c++,0.06
+Software Engineer,oracle,0.06
+Software Engineer,programming,0.06
+Software Engineer,angularjs,0.05
+Software Engineer,data structures,0.05
+Software Engineer,debugging,0.05
+Software Engineer,json,0.05
+Software Engineer,rest,0.05
+Software Engineer,software engineering,0.05
+Software Engineer,wcf,0.05
+Software Engineer,wordpress,0.05
+Solutions Architect,solution architect,0.19
+Solutions Architect,technical architect,0.18
+Solutions Architect,java,0.17
+Solutions Architect,solution architecture,0.15
+Solutions Architect,javascript,0.13
+Solutions Architect,cloud,0.1
+Solutions Architect,j2ee,0.1
+Solutions Architect,architecture,0.09
+Solutions Architect,hibernate,0.08
+Solutions Architect,html,0.08
+Solutions Architect,aws,0.07
+Solutions Architect,presales,0.07
+Solutions Architect,spring,0.07
+Solutions Architect,sql,0.07
+Solutions Architect,oracle,0.06
+Solutions Architect,solution design,0.06
+Solutions Architect,technical architecture,0.06
+Solutions Architect,xml,0.06
+Solutions Architect,.net,0.05
+Solutions Architect,azure,0.05
+Solutions Architect,coding,0.05
+Solutions Architect,consulting,0.05
+Solutions Architect,crm,0.05
+Solutions Architect,css,0.05
+Solutions Architect,data modeling,0.05
+Solutions Architect,design patterns,0.05
+Solutions Architect,jboss,0.05
+Solutions Architect,mysql,0.05
+Solutions Architect,sap,0.05
+Solutions Architect,soa,0.05
+Solutions Architect,spring boot,0.05
+Solutions Architect,struts,0.05
+Solutions Architect,web services,0.05
+System Administrator,technical support,0.68
+System Administrator,customer service,0.24
+System Administrator,outbound,0.19
+System Administrator,networking,0.16
+System Administrator,technical support executive,0.15
+System Administrator,bpo,0.14
+System Administrator,international bpo,0.14
+System Administrator,troubleshooting,0.14
+System Administrator,voice process,0.14
+System Administrator,customer support,0.12
+System Administrator,inbound calls,0.12
+System Administrator,us shift,0.12
+System Administrator,tech support,0.1
+System Administrator,technical,0.1
+System Administrator,bonus,0.09
+System Administrator,comp,0.09
+System Administrator,inbound,0.09
+System Administrator,windows,0.09
+System Administrator,linux,0.08
+System Administrator,process,0.08
+System Administrator,active directory,0.07
+System Administrator,business executive,0.07
+System Administrator,communication skills,0.07
+System Administrator,service,0.07
+System Administrator,system administration,0.07
+System Administrator,technical support engineer,0.07
+System Administrator,antivirus,0.06
+System Administrator,calling,0.06
+System Administrator,customer relationship,0.06
+System Administrator,desktop support,0.06
+System Administrator,dns,0.06
+System Administrator,fresher,0.06
+System Administrator,it support,0.06
+System Administrator,software,0.06
+System Administrator,technical support associate,0.06
+System Administrator,voice,0.06
+System Administrator,call center,0.05
+System Administrator,cce,0.05
+System Administrator,customer care,0.05
+System Administrator,domestic bpo,0.05
+System Administrator,international call center,0.05
+System Administrator,international voice process,0.05
+System Administrator,night shift,0.05
+System Administrator,non voice,0.05
+System Administrator,service desk,0.05
+System Administrator,sql,0.05
+Tech Lead,java,0.22
+Tech Lead,javascript,0.2
+Tech Lead,technical lead,0.18
+Tech Lead,j2ee,0.13
+Tech Lead,hibernate,0.12
+Tech Lead,sql,0.12
+Tech Lead,html,0.11
+Tech Lead,python,0.11
+Tech Lead,core java,0.1
+Tech Lead,linux,0.1
+Tech Lead,web services,0.1
+Tech Lead,mysql,0.09
+Tech Lead,agile,0.08
+Tech Lead,ajax,0.08
+Tech Lead,design patterns,0.08
+Tech Lead,jquery,0.08
+Tech Lead,oracle,0.08
+Tech Lead,php,0.08
+Tech Lead,spring,0.08
+Tech Lead,spring boot,0.08
+Tech Lead,web technologies,0.08
+Tech Lead,json,0.07
+Tech Lead,.net,0.06
+Tech Lead,node.js,0.06
+Tech Lead,rdbms,0.06
+Tech Lead,xml,0.06
+Tech Lead,coding,0.05
+Tech Lead,mongodb,0.05
+Tech Lead,mvc,0.05
+UI/UX Designer,photoshop,0.47
+UI/UX Designer,html,0.46
+UI/UX Designer,javascript,0.43
+UI/UX Designer,illustrator,0.36
+UI/UX Designer,jquery,0.29
+UI/UX Designer,web technologies,0.29
+UI/UX Designer,css,0.27
+UI/UX Designer,web designing,0.22
+UI/UX Designer,css3,0.2
+UI/UX Designer,html5,0.17
+UI/UX Designer,corel draw,0.12
+UI/UX Designer,dreamweaver,0.12
+UI/UX Designer,web designer,0.12
+UI/UX Designer,bootstrap,0.1
+UI/UX Designer,design,0.1
+UI/UX Designer,wordpress,0.1
+UI/UX Designer,xhtml,0.1
+UI/UX Designer,graphics,0.09
+UI/UX Designer,php,0.09
+UI/UX Designer,ajax,0.08
+UI/UX Designer,social media,0.07
+UI/UX Designer,user interface designing,0.07
+UI/UX Designer,business executive,0.06
+UI/UX Designer,coding,0.06
+UI/UX Designer,graphic designing,0.06
+UI/UX Designer,layout,0.06
+UI/UX Designer,mysql,0.06
+UI/UX Designer,xml,0.06
+UI/UX Designer,cms,0.05
+UI/UX Designer,creative,0.05
+UI/UX Designer,flash,0.05
+UI/UX Designer,front end,0.05
+UI/UX Designer,interaction design,0.05
+UI/UX Designer,joomla,0.05
+UI/UX Designer,psd,0.05
+UI/UX Designer,ui designer,0.05
+UI/UX Designer,visual design,0.05
+UI/UX Designer,web design,0.05
+UI/UX Designer,website,0.05
+iOS Developer,ios,0.68
+iOS Developer,swift,0.48
+iOS Developer,objective c,0.42
+iOS Developer,ios development,0.23
+iOS Developer,xml,0.22
+iOS Developer,json,0.21
+iOS Developer,javascript,0.18
+iOS Developer,xcode,0.16
+iOS Developer,cocoa,0.15
+iOS Developer,core data,0.15
+iOS Developer,iphone,0.14
+iOS Developer,cocoa touch,0.13
+iOS Developer,design,0.12
+iOS Developer,sqlite,0.12
+iOS Developer,html,0.11
+iOS Developer,sdk,0.11
+iOS Developer,developer,0.1
+iOS Developer,mobile,0.1
+iOS Developer,animation,0.09
+iOS Developer,c++,0.09
+iOS Developer,mobile development,0.09
+iOS Developer,application,0.08
+iOS Developer,performance tuning,0.08
+iOS Developer,android,0.07
+iOS Developer,applications,0.07
+iOS Developer,computer science,0.07
+iOS Developer,development,0.07
+iOS Developer,ios sdk,0.07
+iOS Developer,iphone sdk,0.07
+iOS Developer,jquery,0.07
+iOS Developer,memory management,0.07
+iOS Developer,mobile applications,0.07
+iOS Developer,mysql,0.07
+iOS Developer,programming,0.07
+iOS Developer,unit testing,0.07
+iOS Developer,web,0.07
+iOS Developer,web services,0.07
+iOS Developer,web technologies,0.07
+iOS Developer,debugging,0.06
+iOS Developer,level,0.06
+iOS Developer,software,0.06
+iOS Developer,sql,0.06
+iOS Developer,ajax,0.05
+iOS Developer,application development,0.05
+iOS Developer,backend,0.05
+iOS Developer,coding,0.05
+iOS Developer,git,0.05
+iOS Developer,ipad,0.05
+iOS Developer,multithreading,0.05
+iOS Developer,mvc,0.05
+iOS Developer,object oriented programming,0.05
+iOS Developer,php,0.05
+iOS Developer,python,0.05

@@ -16,5 +16,7 @@ dependencies = [
     "stable-baselines3>=2.8.0",
     "streamlit>=1.55.0",
     "tdqm>=0.0.1",
+    "torch>=2.11.0",
+    "transformers>=5.5.0",
     "uvicorn>=0.42.0",
 ]

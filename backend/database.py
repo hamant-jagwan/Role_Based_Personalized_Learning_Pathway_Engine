@@ -12,7 +12,7 @@ load_dotenv()
 # Format: postgresql://username:password@host:port/database_name
 # Values come from your .env file
 DATABASE_URL = os.getenv(
-    "DATABASE_URL",
+    "DATABASE_URL",a
     "postgresql://postgres:password@localhost:5432/rbplpe_database"
 )
 
@@ -62,9 +62,9 @@ if __name__ == "__main__":
     # Test PostgreSQL
     try:
         with engine.connect() as conn:
-            print("✅ PostgreSQL Connected!")
+            print(" PostgreSQL Connected!")
     except Exception as e:
-        print(f"❌ PostgreSQL Failed: {e}")
+        print(f" PostgreSQL Failed: {e}")
 
     # Test Neo4j
     try:
@@ -72,4 +72,4 @@ if __name__ == "__main__":
             result = session.run("RETURN 'Neo4j Connected!' AS message")
             print(result.single()["message"])
     except Exception as e:
-        print(f"❌ Neo4j Failed: {e}")
+        print(f" Neo4j Failed: {e}")

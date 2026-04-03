@@ -12,7 +12,7 @@ load_dotenv()
 # Format: postgresql://username:password@host:port/database_name
 # Values come from your .env file
 DATABASE_URL = os.getenv(
-    "DATABASE_URL",a
+    "DATABASE_URL",
     "postgresql://postgres:password@localhost:5432/rbplpe_database"
 )
 

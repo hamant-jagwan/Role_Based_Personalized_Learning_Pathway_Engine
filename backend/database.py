@@ -73,3 +73,8 @@ if __name__ == "__main__":
             print(result.single()["message"])
     except Exception as e:
         print(f" Neo4j Failed: {e}")
+
+
+#     MATCH (r:Role {name: "Data Scientist"})-[rel:REQUIRES]->(s:Skill)
+# RETURN r, rel, s
+# ORDER BY rel.importance DESC

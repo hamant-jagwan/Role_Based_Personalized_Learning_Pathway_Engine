@@ -17,7 +17,7 @@ The **FastAPI** app exposes JSON APIs; the **Streamlit** UI calls those APIs.
 This project uses **[uv](https://docs.astral.sh/uv/)** for Python environments and dependencies:
 
 - **`pyproject.toml`** — project metadata and dependency ranges.
-- **`uv.lock`** — pinned versions for reproducible installs (commit this file).
+- **`uv.lock`** — pinned versions for reproducible installs.
 
 Install [uv](https://github.com/astral-sh/uv#installation), then from the repo root run **`uv sync`**. That creates or updates a local **`.venv`** and installs exactly what the lockfile specifies. Use **`uv run <command>`** anywhere in this README so commands use that environment without activating the venv manually.
 
@@ -50,17 +50,7 @@ uv sync
 
 This is the only install step you need for Python dependencies when using uv.
 
-## Run the API
 
-From the **backend** directory so imports resolve correctly:
-
-```bash
-cd backend
-uv run uvicorn main:app --reload --host 0.0.0.0 --port 8000
-```
-
-- Health: `GET http://localhost:8000/`
-- OpenAPI docs: `http://localhost:8000/docs`
 
 Main routes include:
 
@@ -70,67 +60,7 @@ Main routes include:
 - `GET /api/v1/history/{user_id}` — past pathways
 - `GET /api/v1/roles` — allowed target roles
 
-## Run the frontend
 
-By default the UI calls `http://localhost:8000`. In deployment, set **`RBPLPE_API_URL`** to your public API origin (no trailing slash), or define the same key in **Streamlit secrets** (e.g. Streamlit Community Cloud).
-
-```bash
-uv run streamlit run frontend/app.py
-```
-
-## Deploy
-
-You are shipping **two Python apps** (API + Streamlit) and two data stores (**PostgreSQL**, **Neo4j**). Point both apps at the same databases via environment variables.
-
-### 1. Provision services
-
-- **PostgreSQL** — create a database; set `DATABASE_URL` to a URL the API host can reach (TLS URLs for managed providers are fine if the driver supports them).
-- **Neo4j** — Aura or self-hosted Bolt endpoint; set `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASSWORD`.
-- **API host** — needs **enough RAM** for PyTorch + transformers (JobBERT warms up at startup). Start with **one** `uvicorn` worker so the model is not duplicated across processes.
-
-### 2. API (FastAPI)
-
-On a VM or container:
-
-```bash
-uv sync
-cd backend
-# Set DATABASE_URL, NEO4J_* in the environment or a .env file next to where Python loads it
-uv run uvicorn main:app --host 0.0.0.0 --port 8000
-```
-
-Put **HTTPS** and routing in front with **nginx**, **Caddy**, or your platform’s load balancer. For production, run without `--reload`.
-
-Ensure **`data/cleaned/`** and **`models/ppo_agent`** (if you use PPO) exist on the API machine at paths your `ml/` code resolves (run from `backend/` as in development, or adjust paths / working directory accordingly).
-
-### 3. Frontend (Streamlit)
-
-Run Streamlit where users reach it (second VM, or Streamlit Community Cloud, etc.). Configure the API URL:
-
-| Where | How |
-|--------|-----|
-| Shell / Docker | `export RBPLPE_API_URL=https://api.yourdomain.com` |
-| Streamlit Cloud | App secrets: `RBPLPE_API_URL` = `https://api.yourdomain.com` |
-
-```bash
-RBPLPE_API_URL=https://api.yourdomain.com uv run streamlit run frontend/app.py --server.address 0.0.0.0 --server.port 8501
-```
-
-The UI talks to the API with **server-side** `requests`, so you do not need browser CORS for this Streamlit app alone.
-
-### 4. Platforms (high level)
-
-- **Docker** — one image for the API and one for Streamlit (or a single image with two commands); copy the repo, `uv sync`, set env vars, expose ports 8000 / 8501.
-- **Railway / Render / Fly.io** — deploy the API as a web service with the same start command; attach managed Postgres if offered; run Neo4j separately (e.g. Aura) or as another service.
-- **Streamlit Community Cloud** — connect the GitHub repo, set secrets for `RBPLPE_API_URL`, ensure the API is reachable on the public internet with TLS.
-
-### 5. Checklist
-
-- [ ] `DATABASE_URL` and Neo4j variables set on the API
-- [ ] API health: `GET /`
-- [ ] `RBPLPE_API_URL` (or Streamlit secret) points to that API
-- [ ] Neo4j graph populated for your roles
-- [ ] Course CSV and optional PPO artifacts present on the API host
 
 ## Project layout
 
@@ -155,6 +85,5 @@ The `tests/` folder contains runnable Python scripts (e.g. skill extractor cases
 uv run python tests/test_skill_extractor.py
 ```
 
-(Add `pytest` and convert to pytest style if you want a single `pytest` entry point.)
 
 

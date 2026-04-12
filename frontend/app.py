@@ -410,11 +410,17 @@ else:
                 st.markdown('<hr class="rule">', unsafe_allow_html=True)
                 st.markdown('<div class="section-label">03 — Your results</div>', unsafe_allow_html=True)
 
-                c1, c2, c3, c4 = st.columns(4)
-                c1.metric("Role",    result["target_role"])
-                c2.metric("Gap",     f"{round(result['gap_score'] * 100)}%")
-                c3.metric("Weeks",   f"{result['estimated_weeks']}")
-                c4.metric("Courses", f"{len(result['pathway'])}")
+                st.subheader(f"Target Role : {result['target_role']}")
+
+
+                # ── METRICS (Grouped) ──
+                c1, c2, c3 = st.columns(3)
+
+                c1.metric("Gap", f"{round(result['gap_score'] * 100)}%")
+                c2.metric("Weeks", f"{result['estimated_weeks']}")
+                c3.metric("Courses", f"{len(result['pathway'])}")
+
+                
 
                 if result["missing_skills"]:
                     st.markdown('<hr class="rule">', unsafe_allow_html=True)

@@ -11,6 +11,42 @@
 5. **Generate a course pathway** with a **PPO** agent when a trained model is present, with rule-based fallback (`ml/pathway_generator.py`).
 
 The **FastAPI** app exposes JSON APIs; the **Streamlit** UI calls those APIs.
+Role_Based_Personalized_Learning_Pathway_Engine/
+├── backend/                        # FastAPI Application Core
+│   ├── database.py                 # PostgreSQL & SQLAlchemy configuration
+│   ├── main.py                     # API entry point & endpoint logic
+│   ├── models.py                   # DB Tables (User profiles, Saved Pathways)
+│   └── schemas.py                  # Pydantic models for data validation
+├── ml/                             # Machine Learning Modules
+│   ├── gap_analysis.py             # Skill gap scoring logic
+│   ├── knowledge_graph.py          # Neo4j Cypher queries & graph connection
+│   ├── pathway_generator.py        # PPO Agent logic (Gymnasium/SB3)
+│   └── skill_extractor.py          # JobBERT Skill extraction (NER)
+├── frontend/                       # User Interface
+│   └── app.py                      # Streamlit application
+├── data/                           # Dataset Management
+│   ├── raw/                        # Original, unprocessed datasets
+│   │   ├── naukri.csv              # Raw job listings for role analysis
+│   │   └── Online_Courses.json     # Raw course catalog data
+│   └── cleaned/                    # Processed data for ML & Graph
+│       ├── courses_cleaned.csv     # Pre-processed course metadata
+│       └── role_skill_mapping.csv  # Final role-to-skill matrix
+├── notebooks/                      # R&D and Data Engineering
+│   ├── ppo_training.ipynb          # RL Agent training workflow
+│   ├── naukri_to_role_skill_mapping.ipynb # Processing raw job data
+│   └── Online_courses_cleaning.ipynb      # Course data normalization
+├── models/                         # Saved ML Artifacts
+│   └── ppo_agent/                  # Trained PPO model weights
+├── tests/                          # Automated Testing Suite
+│   ├── test_skill_extractor.py     # Skill NER unit tests
+│   ├── test_gap_analysis.py        # Gap calculation logic tests
+│   ├── test_knowledge_graph.py     # Neo4j query & connection tests
+│   └── test_pathway_generator.py   # RL environment & sequence tests
+├── .env                            # Credentials (PostgreSQL, Neo4j, API keys)
+├── .python-version                 # Python version pin (3.10.11)
+├── pyproject.toml                  # Project metadata and dependencies (uv)
+├── uv.lock                         # Pinned lockfile for reproducibility
+└── README.md                       # Comprehensive project documentation
 
 ## Dependency management (uv)
 

@@ -1,3 +1,5 @@
+import os
+
 import streamlit as st
 import streamlit.components.v1 as components
 import requests
@@ -208,7 +210,17 @@ html, body, [data-testid="stAppViewContainer"] {
 # ══════════════════════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════════════════════
-API = "http://localhost:8000"
+def _api_base_url() -> str:
+    env = os.getenv("RBPLPE_API_URL")
+    if env:
+        return env.rstrip("/")
+    try:
+        return str(st.secrets["RBPLPE_API_URL"]).rstrip("/")
+    except (KeyError, FileNotFoundError):
+        return "http://localhost:8000"
+
+
+API = _api_base_url()
 
 JOB_ROLES = [
     "Select a role...",

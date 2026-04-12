@@ -11,6 +11,8 @@
 5. **Generate a course pathway** with a **PPO** agent when a trained model is present, with rule-based fallback (`ml/pathway_generator.py`).
 
 The **FastAPI** app exposes JSON APIs; the **Streamlit** UI calls those APIs.
+
+```bash
 Role_Based_Personalized_Learning_Pathway_Engine/
 ├── backend/                        # FastAPI Application Core
 │   ├── database.py                 # PostgreSQL & SQLAlchemy configuration
@@ -47,6 +49,8 @@ Role_Based_Personalized_Learning_Pathway_Engine/
 ├── pyproject.toml                  # Project metadata and dependencies (uv)
 ├── uv.lock                         # Pinned lockfile for reproducibility
 └── README.md                       # Comprehensive project documentation
+
+```
 
 ## Dependency management (uv)
 

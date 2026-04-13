@@ -64,7 +64,7 @@ Personalised Learning Pathway
 
 ## System Architecture
 <div align="center">
-  <img src="data/raw/System_architecture_Diagram.jpg" alt="System Architecture" width="900" >
+  <img src="data/raw/System_architecture_Diagram.jpg" alt="System Architecture" width="600" height = "600" >
 </div>
 
 

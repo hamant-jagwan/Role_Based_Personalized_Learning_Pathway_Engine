@@ -64,11 +64,11 @@ Personalised Learning Pathway
 
 ## System Architecture
 <div align="center">
-  <img src="data/raw/System_architecture_Diagram.jpg" alt="System Architecture" width="600" height = "600" >
+  <img src="data/raw/System_architecture_Diagram.jpg" alt="System Architecture" width="400" height = "600" >
 </div>
 
 
-```
+<!-- ```
 ┌─────────────────────────────────────────────────────────────┐
 │                     USER LAYER                              │
 │         Streamlit UI  ·  Registration + Form                │
@@ -94,7 +94,7 @@ Personalised Learning Pathway
 └─────────────────────────────────────────────────────────────┘
 ```
 
----
+--- -->
 
 ## Project Structure
 

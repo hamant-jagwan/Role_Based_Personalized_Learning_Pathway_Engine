@@ -63,6 +63,10 @@ Personalised Learning Pathway
 ---
 
 ## System Architecture
+<div align="center">
+  <img src="H:\resume_project\RB-PLPE\data\raw\System_architecture_Diagram.jpg" alt="RB-PLPE System Design Architecture" width="900">
+</div>
+
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

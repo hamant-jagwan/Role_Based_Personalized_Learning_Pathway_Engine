@@ -109,7 +109,7 @@ This is where users enter their current technical skills and select their target
 ### 2. Personalized Learning Pathway
 The output showing the skill gap analysis and the PPO Agent's optimally sequenced course list.
 <div align="center">
-  <img src="assets/after registration.jpg" width="800" height = "500" alt="Generated Pathway UI">
+  <img src="assets/after registration.jpg" width="800" height = "600" alt="Generated Pathway UI">
 </div>
 
 ## Project Structure

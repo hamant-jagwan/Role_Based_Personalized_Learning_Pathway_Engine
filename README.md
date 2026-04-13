@@ -101,7 +101,7 @@ Personalised Learning Pathway
 ### 1. User Dashboard & Inputs
 This is where users enter their current technical skills and select their target IT role (e.g., Data Scientist).
 <div align="center">
-  <img src="assets/Registration page.png" width="500" height = "600" alt="Main Dashboard UI">
+  <img src="assets/registration page.jpg" width="800" height = "600" alt="Main Dashboard UI">
 </div>
 
 ---

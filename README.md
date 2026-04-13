@@ -96,6 +96,22 @@ Personalised Learning Pathway
 
 --- -->
 
+## 🖥️ User Interface Preview
+
+### 1. User Dashboard & Inputs
+This is where users enter their current technical skills and select their target IT role (e.g., Data Scientist).
+<div align="center">
+  <img src="assets/Registration page.png" width="400" height = "600" alt="Main Dashboard UI">
+</div>
+
+---
+
+### 2. Personalized Learning Pathway
+The output showing the skill gap analysis and the PPO Agent's optimally sequenced course list.
+<div align="center">
+  <img src="assets/after registration.jpg" width="800" height = "400" alt="Generated Pathway UI">
+</div>
+
 ## Project Structure
 
 ```

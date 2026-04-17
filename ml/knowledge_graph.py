@@ -8,10 +8,14 @@ import os
 
 load_dotenv()
 
+NEO4J_URI=neo4j+s://2b139927.databases.neo4j.io
+NEO4J_USERNAME=2b139927
+NEO4J_PASSWORD=ZHR-kTvs90eJj7nRBTtPIlm3E6NkuQmhidb_hKjlQ3Q
+
 # Neo4j connection 
-NEO4J_URI      = os.getenv("NEO4J_URI",      "bolt://127.0.0.1:7687")
-NEO4J_USER     = os.getenv("NEO4J_USER",     "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "password")
+NEO4J_URI      = os.getenv("NEO4J_URI",      "neo4j+s://2b139927.databases.neo4j.io")
+NEO4J_USER     = os.getenv("NEO4J_USER",     "2b139927")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "ZHR-kTvs90eJj7nRBTtPIlm3E6NkuQmhidb_hKjlQ3Q")
 
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 

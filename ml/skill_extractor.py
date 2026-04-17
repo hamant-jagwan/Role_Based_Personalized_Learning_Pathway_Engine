@@ -128,7 +128,7 @@ def extract_skills(raw_text: str) -> List[str]:
     if not raw_text or not raw_text.strip():
         return []
 
-    pipe = _load_model()
+    pipe = None
 
     if pipe is not None:
         raw_skills = _extract_with_jobbert(pipe, raw_text)

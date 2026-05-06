@@ -474,7 +474,7 @@ uv run python ../tests/test_pathway_generator.py
 
 ---
 
-## Cloud Deployment
+## Cloud Deployment (Future Work)
 
 | Component | Platform |
 |-----------|---------|

@@ -476,12 +476,12 @@ uv run python ../tests/test_pathway_generator.py
 
 ## Cloud Deployment
 
-| Component | Platform | Notes |
-|-----------|---------|-------|
-| Frontend | Streamlit Community Cloud | Free forever |
-| Backend | Render Web Service | Free tier (sleeps after 15 min) |
-| PostgreSQL | Render PostgreSQL | Free 90 days |
-| Neo4j | Neo4j Aura Free | Free forever, 200MB limit |
+| Component | Platform |
+|-----------|---------|
+| Frontend | Streamlit Community Cloud | 
+| Backend | Render Web Service | 
+| PostgreSQL | Render PostgreSQL | 
+| Neo4j | Neo4j Aura Free | 
 
 ---
 
